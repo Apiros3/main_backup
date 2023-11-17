@@ -1,0 +1,10 @@
+cd /mnt/c/Users/lemon/Coding/Apiros3.github.io
+git submodule update --init --recursive
+git config --local user.email "lemon211k04@gmail.com" 
+git config --local user.name "Apiros3"
+git add .
+git commit -m "update submodules"
+git push 
+cd /mnt/c/Users/lemon/Coding/short_commands
+
+ 

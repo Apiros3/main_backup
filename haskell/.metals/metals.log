@@ -1,0 +1,558 @@
+2023.06.04 17:23:15 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\lemon\Coding\main\haskell' for client Visual Studio Code 1.78.2.
+6 04, 2023 5:23:15 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+èÓïÒ: Flyway Community Edition 9.16.3 by Redgate
+6 04, 2023 5:23:15 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: See release notes here: https://rd.gt/416ObMi
+6 04, 2023 5:23:15 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: 
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+èÓïÒ: Database: jdbc:h2:file:C:\Users\lemon\Coding\main\haskell\.metals\metals (H2 2.1)
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+èÓïÒ: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.command.DbValidate validate
+èÓïÒ: Successfully validated 4 migrations (execution time 00:00.017s)
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+èÓïÒ: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.command.DbMigrate migrateGroup
+èÓïÒ: Current version of schema "PUBLIC": << Empty Schema >>
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "1 - Create tables"
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "2 - Server discovery"
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+6 04, 2023 5:23:16 åﬂå„ org.flywaydb.core.internal.command.DbMigrate logSummary
+èÓïÒ: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.051s)
+2023.06.04 17:23:16 INFO  time: initialize in 0.65s
+2023.06.04 17:23:16 WARN  Build server is not auto-connectable.
+2023.06.04 17:23:16 WARN  no build tool detected in workspace 'C:\Users\lemon\Coding\main\haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.04 17:23:16 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:23:19 INFO  no build target found for C:\Users\lemon\Coding\main\scala\2022ip.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.06.04 17:23:19 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:23:21 INFO  time: code lens generation in 4.01s
+2023.06.04 17:23:21 INFO  time: code lens generation in 1.49s
+2023.06.04 17:23:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:23:31 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:23:44 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:23:54 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:23:57 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:00 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:03 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:06 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:11 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:24:20 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 337
+2023.06.04 17:24:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:25 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:29 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:31 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:33 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:40 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:49 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:24:59 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:02 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:11 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:16 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:22 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:26 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:25:32 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 838
+2023.06.04 17:25:33 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:35 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:37 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:44 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:48 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:25:57 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:01 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:33 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:44 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:26:50 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:26:54 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.06.04 17:26:55 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:26:55 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+6 04, 2023 5:26:56 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.06.04 17:26:57 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:26:58 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+6 04, 2023 5:26:58 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+6 04, 2023 5:26:59 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+6 04, 2023 5:27:00 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.06.04 17:27:01 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:04 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:06 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:11 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:16 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:19 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:22 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:24 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:27:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:01 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:06 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:30 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:39 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:42 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:44 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:28:59 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:29:02 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:29:20 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:29:22 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:29:25 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:29:41 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 1701
+2023.06.04 17:29:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:30:10 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:30:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:30:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:30:38 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 1801
+2023.06.04 17:30:42 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:30:49 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:30:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:31:06 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 2044
+2023.06.04 17:31:07 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:31:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:31:11 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:31:40 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:31:48 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:31:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:31:59 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:07 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:19 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:23 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:39 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:32:47 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:15 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:20 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:36 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:47 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:33:56 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:05 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:06 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:14 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:18 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:22 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:24 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:26 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:43 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:34:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:14 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:16 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:19 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:22 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:25 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:31 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:35 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:40 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:43 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:47 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:50 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:35:52 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:03 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:06 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:10 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:11 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:14 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:19 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:23 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:30 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:36:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:05 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:07 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:15 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:17 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:22 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:26 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:35 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:37:50 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:38:25 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:40:39 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:40:40 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:07 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:10 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:18 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:41:20 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 3970
+2023.06.04 17:41:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:35 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:43 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:48 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:41:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:42:04 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:42:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:43:26 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:43:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:43:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:44:49 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:45:04 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:48:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:48:14 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:48:18 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:48:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:48:30 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:48:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:49:05 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:49:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:49:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:50:48 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:51:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:51:14 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:51:24 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:53:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:53:18 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:54:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:54:25 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:54:27 åﬂå„ scala.meta.internal.pc.CompilerAccess handleError
+èdëÂ: String index out of range: -7
+java.lang.StringIndexOutOfBoundsException: String index out of range: -7
+	at java.lang.String.substring(Unknown Source)
+	at scala.meta.internal.pc.completions.CompletionPos$.infer(CompletionPos.scala:54)
+	at scala.meta.internal.pc.completions.CompletionPos$.infer(CompletionPos.scala:44)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:64)
+
+2023.06.04 17:54:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:54:33 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:14 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:18 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:25 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:37 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:42 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:47 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:50 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:55:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:56:37 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:56:40 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+6 04, 2023 5:56:42 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 5152
+2023.06.04 17:56:43 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:56:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:56:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:57:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 17:57:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:03:49 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:03:59 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:04:52 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:04:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:10:18 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:10:31 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:10:35 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:10:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:10:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:10:52 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:10:58 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:54:24 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:54:32 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:54:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:54:37 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.04 18:54:47 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.07 15:46:35 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\lemon\Coding\main\haskell' for client Visual Studio Code 1.78.2.
+6 07, 2023 3:46:35 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+èÓïÒ: Flyway Community Edition 9.16.3 by Redgate
+6 07, 2023 3:46:35 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: See release notes here: https://rd.gt/416ObMi
+6 07, 2023 3:46:35 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: 
+6 07, 2023 3:46:40 åﬂå„ org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+èÓïÒ: Database: jdbc:h2:file:C:\Users\lemon\Coding\main\haskell\.metals\metals (H2 2.1)
+6 07, 2023 3:46:40 åﬂå„ org.flywaydb.core.internal.command.DbValidate validate
+èÓïÒ: Successfully validated 4 migrations (execution time 00:00.047s)
+6 07, 2023 3:46:40 åﬂå„ org.flywaydb.core.internal.command.DbMigrate migrateGroup
+èÓïÒ: Current version of schema "PUBLIC": 4
+6 07, 2023 3:46:40 åﬂå„ org.flywaydb.core.internal.command.DbMigrate logSummary
+èÓïÒ: Schema "PUBLIC" is up to date. No migration necessary.
+2023.06.07 15:46:40 INFO  time: initialize in 5.28s
+2023.06.07 15:46:41 WARN  Build server is not auto-connectable.
+2023.06.07 15:46:41 WARN  no build tool detected in workspace 'C:\Users\lemon\Coding\main\haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.07 15:46:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\IP1.scala
+2023.06.07 15:46:46 INFO  no build target found for C:\Users\lemon\Coding\main\scala\coursework\sheets\IP1.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.06.07 15:46:52 INFO  time: code lens generation in 9.4s
+6 09, 2023 7:36:38 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 10
+2023.06.09 20:39:58 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:39:58 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+6 09, 2023 8:39:58 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 19
+2023.06.09 20:40:07 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:40:07 INFO  time: code lens generation in 1.05s
+2023.06.09 20:40:10 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:40:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:40:14 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:40:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:40:49 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:01 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:05 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:36 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:39 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:56 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:41:57 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:42:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:42:11 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:42:30 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:42:31 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:42:37 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:04 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:19 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:24 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:26 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:30 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:32 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:47 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:49 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:43:58 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:04 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:08 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:10 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:17 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:55 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:44:56 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:45:29 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:45:35 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:45:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+6 09, 2023 8:45:40 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 950
+2023.06.09 20:45:42 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:45:47 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:45:49 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:45:55 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\2022ip.scala
+2023.06.09 20:46:22 INFO  Shutting down server
+2023.06.09 20:46:22 INFO  shutting down Metals
+2023.06.09 20:46:22 INFO  Exiting server
+2023.06.14 17:57:18 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\lemon\Coding\main\haskell' for client Visual Studio Code 1.79.0.
+6 14, 2023 5:57:19 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+èÓïÒ: Flyway Community Edition 9.16.3 by Redgate
+6 14, 2023 5:57:19 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: See release notes here: https://rd.gt/416ObMi
+6 14, 2023 5:57:19 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: 
+6 14, 2023 5:57:19 åﬂå„ org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+èÓïÒ: Database: jdbc:h2:file:C:\Users\lemon\Coding\main\haskell\.metals\metals (H2 2.1)
+6 14, 2023 5:57:20 åﬂå„ org.flywaydb.core.internal.command.DbValidate validate
+èÓïÒ: Successfully validated 4 migrations (execution time 00:00.047s)
+6 14, 2023 5:57:20 åﬂå„ org.flywaydb.core.internal.command.DbMigrate migrateGroup
+èÓïÒ: Current version of schema "PUBLIC": 4
+6 14, 2023 5:57:20 åﬂå„ org.flywaydb.core.internal.command.DbMigrate logSummary
+èÓïÒ: Schema "PUBLIC" is up to date. No migration necessary.
+2023.06.14 17:57:20 INFO  time: initialize in 1.43s
+2023.06.14 17:57:21 WARN  Build server is not auto-connectable.
+2023.06.14 17:57:21 WARN  no build tool detected in workspace 'C:\Users\lemon\Coding\main\haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.14 17:57:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:57:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.14 17:57:26 INFO  no build target found for C:\Users\lemon\Coding\main\scala\random.scala. Using presentation compiler with project's scala-library version: 3.2.2
+6 14, 2023 5:57:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 1
+2023.06.14 17:57:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+6 14, 2023 5:57:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 7
+6 14, 2023 5:57:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 6
+6 14, 2023 5:57:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 10
+2023.06.14 17:57:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+6 14, 2023 5:57:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 21
+6 14, 2023 5:57:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 25
+6 14, 2023 5:57:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 29
+2023.06.14 17:57:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+6 14, 2023 5:57:29 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 44
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.63s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.39s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.43s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.24s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.32s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.35s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.48s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.73s
+2023.06.14 17:57:30 INFO  time: code lens generation in 3.53s
+2023.06.14 17:57:32 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:57:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:57:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:57:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+6 14, 2023 5:57:55 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 147
+2023.06.14 17:57:59 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:01 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:15 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:20 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+6 14, 2023 5:58:25 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 390
+2023.06.14 17:58:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+6 14, 2023 5:58:35 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 466
+2023.06.14 17:58:39 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:43 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:48 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:58:53 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:59:30 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:59:36 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:59:40 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:59:41 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:59:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 17:59:59 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 18:00:05 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 18:00:09 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.14 18:00:25 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.15 20:35:02 INFO  Shutting down server
+2023.06.15 20:35:02 INFO  shutting down Metals
+2023.06.15 20:35:04 INFO  Exiting server
+2023.06.22 20:26:04 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\lemon\Coding\main\haskell' for client Visual Studio Code 1.79.1.
+6 22, 2023 8:26:04 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+èÓïÒ: Flyway Community Edition 9.16.3 by Redgate
+6 22, 2023 8:26:04 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: See release notes here: https://rd.gt/416ObMi
+6 22, 2023 8:26:04 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: 
+6 22, 2023 8:26:05 åﬂå„ org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+èÓïÒ: Database: jdbc:h2:file:C:\Users\lemon\Coding\main\haskell\.metals\metals (H2 2.1)
+6 22, 2023 8:26:05 åﬂå„ org.flywaydb.core.internal.command.DbValidate validate
+èÓïÒ: Successfully validated 4 migrations (execution time 00:00.042s)
+6 22, 2023 8:26:05 åﬂå„ org.flywaydb.core.internal.command.DbMigrate migrateGroup
+èÓïÒ: Current version of schema "PUBLIC": 4
+6 22, 2023 8:26:05 åﬂå„ org.flywaydb.core.internal.command.DbMigrate logSummary
+èÓïÒ: Schema "PUBLIC" is up to date. No migration necessary.
+2023.06.22 20:26:05 INFO  time: initialize in 1.15s
+2023.06.22 20:26:07 WARN  Build server is not auto-connectable.
+2023.06.22 20:26:07 WARN  no build tool detected in workspace 'C:\Users\lemon\Coding\main\haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.22 20:26:07 WARN  no build target for: C:\Users\lemon\Coding\main\scala\random.scala
+2023.06.22 20:26:12 INFO  no build target found for C:\Users\lemon\Coding\main\scala\random.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.06.22 20:26:16 INFO  time: code lens generation in 9.36s
+2023.06.22 20:26:22 WARN  no build target for: C:\Users\lemon\Coding\main\scala\2022ip.scala
+2023.06.22 20:27:05 INFO  Shutting down server
+2023.06.22 20:27:05 INFO  shutting down Metals
+2023.06.22 20:27:05 INFO  Exiting server

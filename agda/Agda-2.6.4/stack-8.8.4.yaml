@@ -1,0 +1,9 @@
+resolver: lts-16.31
+compiler: ghc-8.8.4
+compiler-check: match-exact
+
+extra-deps:
+- primitive-0.7.4.0
+- strict-0.4.0.1
+- text-icu-0.8.0.2
+- vector-hashtables-0.1.1.1

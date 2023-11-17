@@ -1,0 +1,134 @@
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Nat.agda:
+  hash: 2e681d9dde9a39460364ee775181f31f7bcb7eba7220bd2ab8e4deb3d02d94c9
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Primitive\Cubical.agda:
+  hash: 2d437836d6207300fd959b2ab32eecd3a426e5d08990e780887e0f8359027865
+C:\Users\lemon\Coding\agda\Agda-2.6.4\stack-9.2.8.yaml:
+  hash: a424bd72ea9c8d086c8e3019d351a328156c1ebfda1396ea452a64ea8e40700d
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Word\Properties.agda:
+  hash: 5c22965fbb2299bacc873ad3623d1bb1c7fad5d17b3bb2ccc1816ee1dca5115b
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Int.agda:
+  hash: 4df341e074b845edc87dc8f83489635c2580e8222b14cbb9441fabf64c41383e
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\agda2.el:
+  hash: 1a7a6d057304ec0c834e496331dcf7423f622bf4864c1b903d91f44fce38461d
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\FromString.agda:
+  hash: e82757c2d90a61ff265defa570f5ff7b002fd7abaf385ace4a32113e1cbc17b2
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\String\Properties.agda:
+  hash: 630a7f7de78f279f6508d850c70753533dec498d86fd34d66a69d81543b45b73
+C:\Users\lemon\Coding\agda\Agda-2.6.4\.stack-work\dist\274b403a\build\agda-mode\autogen\Paths_Agda.hs:
+  hash: 9c3c2fb92f296e765a7a11f570f280e4ea40cb41eb4305717b6bad8a9a8256ac
+C:\Users\lemon\AppData\Local\Programs\stack\x86_64-windows\ghc-8.10.7\lib\include\ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\agda2-abbrevs.el:
+  hash: 35e7c01d2e4ccebdfa64ff20baf20b0cd7aa8eeb6c04d20f4455d3382166f0f6
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\annotation.el:
+  hash: 9bcd53181f745d615c6ab52d9c3288ace5e0a7e0ec7b81ac469814d433235fa3
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\List.agda:
+  hash: 387c75a65f0f14dc6268a8cf84c93b80b7139f0e90ba6d8d6d672f02c2882195
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\FromNeg.agda:
+  hash: 731ae46a136179f90df1b90d86e6782b9b6cae4a248b14e27b641da1494a0810
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Cubical\Id.agda:
+  hash: 5e12761467a695668e44e33d40f8f8222a8050f069407916370b45f54604222d
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Maybe.agda:
+  hash: 982f7f2afbfbc4ac41b6bdafddfb5e032a5ddfa71e204f39bbecc23967dc4808
+C:\Users\lemon\Coding\agda\Agda-2.6.4\stack-9.4.7.yaml:
+  hash: bed8a99d6c0641e0a2ee25708d054f0affb8a198802788c59ee546d0a4181d24
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Reflection\Properties.agda:
+  hash: 114d62850112971cf41f04c5f7adddbe2615827400dab3576235f3044946b264
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\JS\agda-rts.js:
+  hash: e0b22a182f96742eb54466d6d3cbf87e75b2b028adf9f24614579982a7ac674d
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\TrustMe.agda:
+  hash: f4c78a92a070266b300a9de4c34f4efdab9a6ede8535f6ad1373988c44d8d04e
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\eri.el:
+  hash: e40ed3d8b2bebd3c6e4132038e9e27f63950eb196eb27b8eeab6b4f79d41d1ee
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Equality\Erase.agda:
+  hash: 10b31430042f43c96ea68c4b2fc5c13442555de1d8fb1b44bdfdd081bf9849d3
+C:\Users\lemon\Coding\agda\Agda-2.6.4\stack-9.6.3.yaml:
+  hash: adc8562f0e68e8c6ed4c93991da5cd70afda464da05cb54637aec0d89918dd27
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\agda2-mode-pkg.el:
+  hash: 061ae7f7bfe958b0277a42af1250eb5719082215975a8d39df94d4ab553619c2
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\JS\agda-rts.amd.js:
+  hash: 3d60cd4fb52e8af5b4dabf2336e32b5a1b6084c53f2532108a53c99685a4e0dd
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Sigma.agda:
+  hash: 5c393f230b359032f64ff78ad693799a162dbf9cada2089048aedb4c6f669e1f
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Equality\Rewrite.agda:
+  hash: 9035212dc9dc87e7f14971b1be7f35681abadedf962cd91a35b72069a1cb9540
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Unit.agda:
+  hash: 03d06283f9d8005beff99fd42de38b7315aa7697099ea22fc19d060600b16249
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Word.agda:
+  hash: af59166a3d62db7c74c52f77bb43629b81668f24cba86481c921b28c76a60fcd
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\agda2-highlight.el:
+  hash: a68c0e1ae45a91eb3767ad091a2c148df2d1e4e7d46f9198ae86899ba608b87b
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Bool.agda:
+  hash: 514fa25a0df7064cdb213507a0f6332c97288a52d538be3a9df06cc7001ba7f5
+C:\Users\lemon\Coding\agda\Agda-2.6.4\Setup.hs:
+  hash: a1b9fe0f142b8e770209dfaf920a4f83985b84226934380c7c2681c379927448
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\MAlonzo\src\MAlonzo\RTE.hs:
+  hash: dd865817f606aac84f1a76ba0683223284d05ef917da3a14d2a1e1803e4caa04
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\latex\postprocess-latex.pl:
+  hash: bde8f9e45e0330dd52cd12e922c81f38c71241248c38d2b2d499122ce04fae9a
+C:\Users\lemon\Coding\agda\Agda-2.6.4\stack-8.10.7.yaml:
+  hash: 4bd8a0c8d85f98173b1c69fcd17b01e47aab1f34d2e66edcf8b8651c59d21772
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\html\highlight-hover.js:
+  hash: 6ccf981b683d58aa5a3542a6023b207705683c2a3d085518f3d4547a4d8361a3
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Strict.agda:
+  hash: c5f4d2bf1e96b7a79a01ee9828a72501c5c4e3c2f876bf2533ce39419a0b3a9f
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Cubical\HCompU.agda:
+  hash: c6a6f87a0010bf037660c28de83308742f8389c0d9e6718f31590dd956fa299f
+C:\Users\lemon\Coding\agda\Agda-2.6.4\stack-9.0.2.yaml:
+  hash: ae55daaaa6d152896ebbf4e8ac3d106be1dccfce31abdb9780d292657a280940
+C:\Users\lemon\Coding\agda\Agda-2.6.4\stack-8.6.5.yaml:
+  hash: 42177378c647ae9302d533f7e40fc48756d4408b6392fa430c7978b650663084
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Cubical\Sub.agda:
+  hash: 80d3697e5f4d7e05b9b95b14e2c08054f24f52dc1b0d13283b51fa2bed46fb50
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Char.agda:
+  hash: 7274616cff2e47a42f8abb63757ded2d1664899d056476af1ea23be84be5dc75
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Float.agda:
+  hash: 9c199f60504b928033331ea41be3666488e420146a9530840f418a40c6a1442d
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Equality.agda:
+  hash: 5735edb0be7e530133814e9431d1466bb1e7892c2a4746c1a0d2a3a0dbea91cd
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\latex\agda.sty:
+  hash: d3cd233e6974c37152dfd4a7825867ea1959f9b194e44fdf98cdad90c9307947
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Char\Properties.agda:
+  hash: 15b609b8ff698818ae46becc3f281d091f3c23b53218750e0b8f4f3f207ba56e
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\FromNat.agda:
+  hash: 6e1b97c6dc7690b354795bc2e48637dd4b2bd2da66813879da3056da5a3892fc
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\agda-mode\Main.hs:
+  hash: ec960db45da99eb1c0f99c6de2fe5b0d25c1e1a8ddf418d9b8e12a4d6045a761
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Coinduction.agda:
+  hash: 99bd8836ad48b01a55b2fcee5ab81dd2a5e3470b924cd3f78500ebf513908cfc
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\String.agda:
+  hash: 4655b3be2b227a4e637841c9b2c9a16456e8d72823a25ff488878e2ea060a228
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\agda2-mode.el:
+  hash: a57680fbaba2270cc65d522d4f04ee82485e128576798f0d16d9204ce801dc26
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Size.agda:
+  hash: cbf669e4d089cebb9e921836002e80e6067bbef3d491651beacf64157b75c209
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Float\Properties.agda:
+  hash: e37a1140a0e47b6d4eb043a10916be8896a53d627a8e4f9a26a0f7a2fc3a106b
+C:\Users\lemon\Coding\agda\Agda-2.6.4\.stack-work\dist\274b403a\build\agda-mode\autogen\cabal_macros.h:
+  hash: 0b39121611f57aefe834990889e47077262db33f78b3003876495520b4e44e1b
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\MAlonzo\src\MAlonzo\RTE\Float.hs:
+  hash: f3695ec6e4f78becaddbcd82026ad427e026c562fbbd8e97c7464e92ebc240b7
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\agda-input.el:
+  hash: 49a74fe368206042cbd2d6aee80928ab96b9337ab740d4fed55f4b504a1261b0
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Cubical\Path.agda:
+  hash: f9a1f8b8e046278a3a1b2df21f39f4c2b81df46dee4ba1bec7b5ff4a2dae415c
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Reflection.agda:
+  hash: 2a4fd74a91b67d7f030ba0c0eb1995e1325447a7e3868e287615143db1984b76
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\emacs-mode\agda2-queue.el:
+  hash: 9d597ea72b589b33d6b4f4cc168706ebb024e13591a67b3c06e7b0e299705519
+C:\Users\lemon\Coding\agda\Agda-2.6.4\Agda.cabal:
+  hash: 298bc3b261ad034bf4ee788834a4d296aa5c2f6ea17ac4bef44e3daea53a7cd8
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Cubical\Glue.agda:
+  hash: 7c92cfd0f3aa48bdbe098f414c71135ae28b41548df4be26a28931f67d632082
+C:\Users\lemon\Coding\agda\Agda-2.6.4\stack-8.8.4.yaml:
+  hash: a978e44e0ef75f02ddeace6c129e2c52a5f82096439523f9fe13942baec25885
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Primitive.agda:
+  hash: e5e4e04900cf1a28202e2ff26bb20d6fa6401fcc9f4049cd8d14fedd5bd697f8
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\html\Agda.css:
+  hash: 364e12b5f48c0dfa28fba3aabdfa51a915d46cc3972bf52301b7ddf2f8170be2
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Cubical\Equiv.agda:
+  hash: 333674b4eb6cf56471571796355715b7a9cbf6b79c25f7caa94e0852696fcd62
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\IO.agda:
+  hash: e05e27bb5d3b25b95a364d79c340c2a6c8bfe669814a079c67b4facc19c345af
+C:\Users\lemon\Coding\agda\Agda-2.6.4\src\data\lib\prim\Agda\Builtin\Reflection\External.agda:
+  hash: e95a9eb99c7908cb3446fc86c14fa633ef06a34308780cf4f8c0031ae7d6f999

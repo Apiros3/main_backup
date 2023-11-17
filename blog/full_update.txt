@@ -1,0 +1,6 @@
+cd blog 
+. update.txt 
+cd ..
+cd cp-blog 
+. update.txt 
+cd ..

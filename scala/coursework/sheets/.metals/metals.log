@@ -1,0 +1,104 @@
+2023.05.28 23:31:31 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\lemon\Coding\main\scala\coursework\sheets' for client Visual Studio Code 1.78.2.
+5 28, 2023 11:31:32 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+èÓïÒ: Flyway Community Edition 9.16.3 by Redgate
+5 28, 2023 11:31:32 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: See release notes here: https://rd.gt/416ObMi
+5 28, 2023 11:31:32 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: 
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+èÓïÒ: Database: jdbc:h2:file:C:\Users\lemon\Coding\main\scala\coursework\sheets\.metals\metals (H2 2.1)
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+èÓïÒ: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.command.DbValidate validate
+èÓïÒ: Successfully validated 4 migrations (execution time 00:00.029s)
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+èÓïÒ: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.command.DbMigrate migrateGroup
+èÓïÒ: Current version of schema "PUBLIC": << Empty Schema >>
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "1 - Create tables"
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "2 - Server discovery"
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+èÓïÒ: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+5 28, 2023 11:31:33 åﬂå„ org.flywaydb.core.internal.command.DbMigrate logSummary
+èÓïÒ: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.097s)
+2023.05.28 23:31:33 INFO  time: initialize in 1.19s
+2023.05.28 23:31:34 WARN  Build server is not auto-connectable.
+2023.05.28 23:31:34 WARN  no build tool detected in workspace 'C:\Users\lemon\Coding\main\scala\coursework\sheets'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.05.28 23:31:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\IP3_1.scala
+2023.05.28 23:31:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:31:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\IP1.scala
+2023.05.28 23:31:39 INFO  no build target found for C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.05.28 23:31:39 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:31:42 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:31:44 INFO  time: code lens generation in 10s
+2023.05.28 23:31:44 INFO  time: code lens generation in 2.13s
+2023.05.28 23:31:46 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:31:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:31:58 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:02 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:10 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:15 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:21 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+5 28, 2023 11:32:23 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 136
+2023.05.28 23:32:27 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:32 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:34 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:35 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:37 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:44 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:45 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:32:56 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:33:07 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:33:54 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:34:03 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:34:06 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:34:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+5 28, 2023 11:34:27 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 566
+2023.05.28 23:34:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:34:29 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:34:36 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:34:51 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+5 28, 2023 11:35:11 åﬂå„ org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+åxçê: Unmatched cancel notification for request id 686
+2023.05.28 23:35:12 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:35:13 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:35:18 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:35:28 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:35:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.28 23:35:40 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.29 21:47:50 INFO  Shutting down server
+2023.05.29 21:47:50 INFO  shutting down Metals
+2023.05.29 21:47:52 INFO  Exiting server
+2023.05.29 22:34:35 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\lemon\Coding\main\scala\coursework\sheets' for client Visual Studio Code 1.78.2.
+5 29, 2023 10:34:36 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+èÓïÒ: Flyway Community Edition 9.16.3 by Redgate
+5 29, 2023 10:34:36 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: See release notes here: https://rd.gt/416ObMi
+5 29, 2023 10:34:36 åﬂå„ org.flywaydb.core.internal.license.VersionPrinter printVersion
+èÓïÒ: 
+5 29, 2023 10:34:36 åﬂå„ org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+èÓïÒ: Database: jdbc:h2:file:C:\Users\lemon\Coding\main\scala\coursework\sheets\.metals\metals (H2 2.1)
+5 29, 2023 10:34:36 åﬂå„ org.flywaydb.core.internal.command.DbValidate validate
+èÓïÒ: Successfully validated 4 migrations (execution time 00:00.058s)
+5 29, 2023 10:34:36 åﬂå„ org.flywaydb.core.internal.command.DbMigrate migrateGroup
+èÓïÒ: Current version of schema "PUBLIC": 4
+5 29, 2023 10:34:36 åﬂå„ org.flywaydb.core.internal.command.DbMigrate logSummary
+èÓïÒ: Schema "PUBLIC" is up to date. No migration necessary.
+2023.05.29 22:34:37 INFO  time: initialize in 1.32s
+2023.05.29 22:34:38 WARN  Build server is not auto-connectable.
+2023.05.29 22:34:38 WARN  no build tool detected in workspace 'C:\Users\lemon\Coding\main\scala\coursework\sheets'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.05.29 22:34:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala
+2023.05.29 22:34:38 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\IP3.scala
+2023.05.29 22:34:43 INFO  no build target found for C:\Users\lemon\Coding\main\scala\coursework\sheets\test.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.05.29 22:34:47 INFO  time: code lens generation in 8.43s
+2023.05.29 22:35:05 WARN  no build target for: C:\Users\lemon\Coding\main\scala\coursework\sheets\IP6.scala
+2023.05.29 22:36:46 INFO  Shutting down server
+2023.05.29 22:36:46 INFO  shutting down Metals
+2023.05.29 22:36:46 INFO  Exiting server
